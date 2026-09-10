@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=YOUR_USERNAME&repo=YOUR_REPOSITORY&label=THE%20INVINCIBLE%20WAR&labelColor=%238B2F2F&countColor=%23F7E8B2">
+</div>
 <img width="680" height="4" alt="Untitled90_20260909162804" src="https://github.com/user-attachments/assets/f6cd5ccf-19aa-4815-aa00-342acd5cf95b" />
 <img width="680" height="4" alt="Untitled90_20260909162809" src="https://github.com/user-attachments/assets/afe6e4a9-4a23-4714-9c54-ff81ece9c544" />
 
